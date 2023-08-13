@@ -1,0 +1,7 @@
+1. pip install virtualenv - 
+2. pip install flask
+3. pip install flask-sqlalchemy
+4. python ./app.py
+5. python -> from app import db, db.create_all(), exit()
+
+pip install flask-sqlalchemy - it helps to do changes in sql databases through python.
